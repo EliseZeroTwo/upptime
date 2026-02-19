@@ -6,8 +6,8 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
@@ -15,14 +15,16 @@
     "timeWeek": 644,
     "timeMonth": 665,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 1
+    }
   },
   {
     "name": "Fedi",
     "url": "https://fedi.katze.sh/health",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.katze.sh.ico",
     "slug": "fedi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 662,
     "timeMonth": 686,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   }
 ]
