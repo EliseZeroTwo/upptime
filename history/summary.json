@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.katze.sh.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 658,
-    "timeDay": 545,
-    "timeWeek": 561,
-    "timeMonth": 635,
+    "timeDay": 651,
+    "timeWeek": 567,
+    "timeMonth": 643,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2026-02-19": 59
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
-    "time": 660,
-    "timeDay": 640,
-    "timeWeek": 540,
-    "timeMonth": 625,
-    "timeYear": 660,
+    "time": 661,
+    "timeDay": 718,
+    "timeWeek": 557,
+    "timeMonth": 635,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2026-02-19": 59
     }
